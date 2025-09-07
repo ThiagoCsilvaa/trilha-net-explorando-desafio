@@ -41,8 +41,6 @@ DesafioProjetoHospedagem/
 ├─ Suite.cs
 └─ Reserva.cs
 
-yaml
-Copy code
 
 ---
 
