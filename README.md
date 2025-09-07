@@ -53,12 +53,10 @@ git clone https://github.com/SeuUsuario/DesafioProjetoHospedagem.git
 
 2. Acesse a pasta do projeto:
 bash
-Copy code
 cd DesafioProjetoHospedagem
 
 3. Rode o projeto:
 bash
-Copy code
 dotnet run
 
 4.O console exibirá:
